@@ -1,0 +1,9 @@
+{
+  "fileType"     : "trectext",
+  "inputPath"    : "Resources/0-Corpus/documents.trectxt",
+  "indexPath"    : "trectext_docs.idx",
+  "stemmer"    : [ "porter" ],
+  "tokenizer"    : {
+    "fields"  : [ "text" ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "fileType"     : "trectext",
+  "inputPath"    : "/home/haniyeh/Desktop/ut/data-retrieval/Resources/0-Corpus/documents.trectxt",
+  "indexPath"    : "/home/haniyeh/Desktop/ut/data-retrieval/Resources/indexes/trectext_docs.idx",
+  "stemmer"    : [ "porter" ],
+  "fieldIndex": true,
+  "corpus": true,
+  "tokenizer"    : {
+    "fields"  : [ "text" ],
+    "formats" : {
+      "text"    : "string"
+    }
+  }
+}
